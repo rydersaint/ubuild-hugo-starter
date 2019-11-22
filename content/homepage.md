@@ -78,3 +78,4 @@ content = "Hello world!"
 template = "simple-footer"
 
 +++
+ths is a test
